@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
 <h3 align="center">Full + Stack Dev🌐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathish099&label=Profile%20views&color=0e75b6&style=flat" alt="sathish099" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish099" alt="sathish099" /></a> </p>
 
 - 🌱 I’m currently learning **Nuxt 3 with node Js**
 
@@ -26,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathish099&show_icons=true&locale=en" alt="sathish099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathish099&" alt="sathish099" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathish099&label=Profile%20views&color=0e75b6&style=flat" alt="sathish099" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish099" alt="sathish099" /></a> </p>
